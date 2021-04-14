@@ -1,4 +1,4 @@
 package factory.simpleFactory;
 
-public class IRuleConfigParser {
+public interface IRuleConfigParser {
 }
